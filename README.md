@@ -1,5 +1,12 @@
 <h2 align="left">Olá! Eu sou o João Pedro 👋</h2>
 
+💡 Acredito que ensinar também é uma forma poderosa de aprender
+
+🧑‍🏫 Atualmente atuando como monitor da faculdade
+💼 Em busca de uma oportunidade na área de TI
+📚 Estudando Ciência de Dados
+🧠 Sempre buscando aprender algo novo na área de tecnologia
+
 ###
 
 <div align="left">
@@ -40,6 +47,8 @@
 </div>
 
 ###
+
+<h3> Meus Contatos </h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
