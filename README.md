@@ -1,11 +1,11 @@
 <h2 align="left">Olá! Eu sou o João Pedro 👋</h2>
 
-💡 Acredito que ensinar também é uma forma poderosa de aprender
+💡 "Acredito que ensinar também é uma forma poderosa de aprender"
 
-🧑‍🏫 Atualmente atuando como monitor da faculdade
-💼 Em busca de uma oportunidade na área de TI
-📚 Estudando Ciência de Dados
-🧠 Sempre buscando aprender algo novo na área de tecnologia
+- 🧑‍🏫 Atualmente atuando como monitor da faculdade
+- 💼 Em busca de uma oportunidade na área de TI
+- 📚 Estudando Ciência de Dados
+- 🧠 Sempre buscando aprender algo novo na área de tecnologia
 
 ###
 
