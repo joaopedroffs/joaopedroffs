@@ -2,9 +2,9 @@
 
 💡 "Acredito que ensinar também é uma forma poderosa de aprender"
 
-- 🧑‍🏫 Atualmente atuando como monitor da faculdade
-- 💼 Em busca de uma oportunidade na área de TI
-- 📚 Estudando Ciência de Dados
+- 🧑‍🏫 Atualmente atuando como Freelancer
+- 💼 Em busca de uma vaga como Júnior
+- 📚 Estou no desenvolvimento do meu TCC
 - 🧠 Sempre buscando aprender algo novo na área de tecnologia
 
 ###
