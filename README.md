@@ -4,8 +4,8 @@
 
 - 🧑‍🏫 Atualmente atuando como Freelancer
 - 💼 Em busca de uma vaga como Júnior
-- 📚 Estou no desenvolvimento do meu TCC
-- 🧠 Sempre buscando aprender algo novo na área de tecnologia
+- 📚 Fazendo parte de projetos da equipe da faculdade
+- 🧠 Sempre buscando aprender algo novo e me atualizando na área de tecnologia
 
 ###
 
