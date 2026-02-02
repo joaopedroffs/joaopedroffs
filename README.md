@@ -4,7 +4,7 @@
 
 - 🧑‍🏫 Atualmente atuando como Freelancer
 - 💼 Em busca de uma vaga como Júnior
-- 📚 Fazendo parte de projetos da equipe da faculdade
+- 📚 Atuando como Freelancer e fazendo parte de projetos da FuzzyLab
 - 🧠 Sempre buscando aprender algo novo e me atualizando na área de tecnologia
 
 ###
